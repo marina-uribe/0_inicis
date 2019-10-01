@@ -2,7 +2,7 @@
 Crear un repositori
 ##  Págines classe
 
-* [Página classe 2GP] (https://arquesm.github.i2GP/)
+* [Página classe 2GP] (https://arquesm.github.io/2GP/)
 * 
 
 ## Manuals
