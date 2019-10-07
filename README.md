@@ -2,7 +2,7 @@
 Crear un repositori
 
 ## Activitats
-* [1_LlocWeb] (file:///C:/Users/Marina/Documents/2_GP_RIA/1_sitioweb/indice.html) 
+* [1_LlocWeb]  
 
 ##  Págines classe
 * [Página classe 2GP] (https://arquesm.github.io/2GP/)
