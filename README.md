@@ -2,7 +2,7 @@
 Crear un repositori
 
 ## Activitats
-* [1_LlocWeb] (https://marina-uribe.github.io/0_inicis/)
+* [1_LlocWeb] (https://marina-uribe.github.io/1llocweb/)
 * [2_CMYK]
 
 ##  Págines classe
