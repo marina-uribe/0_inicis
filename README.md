@@ -3,7 +3,8 @@ Crear un repositori
 
 ## Activitats
 * [1_LlocWeb](https://marina-uribe.github.io/1llocweb/)
-* [2_CMYK](https://marina-uribe.github.io/CMYK/.)
+* [2_CMYK](https://marina-uribe.github.io/2_CMYK/.)
+* [CMYK_Prueba] (https://marina-uribe.github.io/CMYK/.)
 * [3.Broom](
 
 ##  Págines classe
