@@ -6,6 +6,7 @@ Crear un repositori
 * [2_CMYK](https://marina-uribe.github.io/2_CMYK/.)
 * [CMYK_Prueba](https://marina-uribe.github.io/CMYK/.)
 * [3_Broom](https://marina-uribe.github.io/3_Broom/.)
+* [4_Maquetacion](https://marina-uribe.github.io/04_Maquetacion/.)
 
 ##  Págines classe
 * [Página classe 2GP](https://arquesm.github.io/2GP/)
