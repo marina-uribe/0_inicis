@@ -8,6 +8,7 @@ Crear un repositori
 * [3_Broom](https://marina-uribe.github.io/3_Broom/.)
 * [4_Maquetacion](https://marina-uribe.github.io/04_Maquetacion/.)
 * [5_Moduls](https://marina-uribe.github.io/5_Moduls/.)
+*`[6_tarjetes]()
 * [7_Landingpage](https://marina-uribe.github.io/7_landingpage/)
 
 ##  Págines classe
