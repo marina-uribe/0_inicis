@@ -9,8 +9,8 @@ Crear un repositori
 * [4_Maquetacion](https://marina-uribe.github.io/04_Maquetacion/.)
 * [5_Moduls](https://marina-uribe.github.io/5_Moduls/.)
 *`[6_tarjetes]()
-* [7_Landingpage](https://marina-uribe.github.io/7_landingpage/)
-* [7.2_Landingpage](https://marina-uribe.github.io/7.2_landigpage/)
+* [7_Landingpage](https://marina-uribe.github.io/7_landingpage/.)
+* [7.2_Landingpage](https://marina-uribe.github.io/7.2_landigpage/.)
 
 ##  Págines classe
 * [Página classe 2GP](https://arquesm.github.io/2GP/)
