@@ -8,11 +8,12 @@ Crear un repositori
 * [3_Broom](https://marina-uribe.github.io/3_Broom/.)
 * [4_Maquetacion](https://marina-uribe.github.io/04_Maquetacion/.)
 * [5_Moduls](https://marina-uribe.github.io/5_Moduls/.)
-*`[6_tarjetes](https://marina-uribe.github.io/6_Tarjetes/)
+* [6_tarjetes](https://marina-uribe.github.io/6_Tarjetes/)
 * [7_Landingpage](https://marina-uribe.github.io/7_landingpage/.)
 * [7.2_Landingpage](https://marina-uribe.github.io/7.2_landigpage/.)
 * [8_Grid](https://marina-uribe.github.io/8_grid/.)
-* []
+* [9_GridArea_]
+https://marina-uribe.github.io/2CMYK/.
 ##  Págines classe
 * [Página classe 2GP](https://arquesm.github.io/2GP/)
 * [Llenguatge de etiquetes github](https://github.com/adam-p/markdown-here)
