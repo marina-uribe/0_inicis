@@ -12,7 +12,8 @@ Crear un repositori
 * [7_Landingpage](https://marina-uribe.github.io/7_landingpage/.)
 * [7.2_Landingpage](https://marina-uribe.github.io/7.2_landigpage/.)
 * [8_Grid](https://marina-uribe.github.io/8_grid/.)
-* [9_GridArea_]
+* [9_GridArea_MiniShop](https://marina-uribe.github.io/9_GridArea_MiniShop/.) Abrir con Firefox
+* []
 
 ##  Págines classe
 * [Página classe 2GP](https://arquesm.github.io/2GP/)
