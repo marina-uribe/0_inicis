@@ -16,7 +16,7 @@ Crear un repositori
 * [9_GridArea_MiniShop_Corrección](https://marina-uribe.github.io/minimalisimo/)
 * [10_Transform](https://marina-uribe.github.io/Transform/)
 * [Examen](https://marina-uribe.github.io/11_examen/)
-* [Document_JS](https://marina-uribe.github.io/14_Document_JS/)
+* [Document_JS](https://marina-uribe.github.io/14_Document_JS/) con Lara
 * [15_menu](https://marina-uribe.github.io/15.menu/) con Lara 
 
 ##  Págines classe
