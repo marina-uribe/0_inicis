@@ -24,6 +24,7 @@ Crear un repositori
 ##  Págines classe
 * [Página classe 2GP](https://arquesm.github.io/2GP/)
 * [Llenguatge de etiquetes github](https://github.com/adam-p/markdown-here)
+* [Examen](https://marina-uribe.github.io/examen/.)
 
 ## Manuals
 * [w3schools](https://www.w3schools.com/)
