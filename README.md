@@ -21,7 +21,7 @@ Crear un repositori
 * [Document_JS](https://marina-uribe.github.io/14_Document_JS/) con Lara
 * [15_menu](https://marina-uribe.github.io/15.menu/) con Lara 
 * [16_porfolio](https://marina-uribe.github.io/17_Porfolio/.)
-* [Examen](https://marina-uribe.github.io/examen/.)
+* [Examen](https://marina-uribe.github.io/examen/)
 
 ##  Págines classe
 * [Página classe 2GP](https://arquesm.github.io/2GP/)
